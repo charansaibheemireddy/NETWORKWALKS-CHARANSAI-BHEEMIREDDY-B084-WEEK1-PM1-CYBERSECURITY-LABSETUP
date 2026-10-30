@@ -20,7 +20,9 @@ Building an isolated virtual lab environment for cybersecurity analysis and pene
 6. Created a baseline clean state snapshot in VirtualBox for disaster recovery[span_29](start_span)[span_29](end_span)[span_30](start_span)[span_30](end_span).
 
 ## 📸 Lab Evidence & Screenshots
-*(Upload your terminal screenshot showing `ip a` and `ping google.com`, along with your VirtualBox snapshot and network settings screenshots directly here)*[span_31](start_span)[span_31](end_span)[span_32](start_span)[span_32](end_span)[span_33](start_span)[span_33](end_span)[span_34](start_span)[span_34](end_span)[span_35](start_span)[span_35](end_span)
+<img width="674" height="290" alt="Screenshot 2026-10-30 163133" src="https://github.com/user-attachments/assets/f64d747f-aa1e-439f-bb89-1f296d46b3a0" />
+<img width="575" height="340" alt="Screenshot 2026-10-30 162915" src="https://github.com/user-attachments/assets/51ab203e-5569-404a-9fe5-406f1dcad2ba" />
+
 
 ## 🔧 Troubleshooting Experience
 - **Issue:** After configuring the static IP (10.0.0.2), Kali Linux lost outbound internet connectivity and DNS resolution failed due to DAD conflict behavior on VirtualBox v7[span_36](start_span)[span_36](end_span)[span_37](start_span)[span_37](end_span).
